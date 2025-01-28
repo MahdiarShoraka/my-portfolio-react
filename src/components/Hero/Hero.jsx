@@ -7,8 +7,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello! I'm Mahdiar Shoraka</h1>
         <p className={styles.description}>
-          A software engineering student passionate about game development and
-          full-stack development.
+          A Software Engineering student passionate about Game Development and
+          Full-Stack Development.
         </p>
         <a className={styles.contactBtn} href="mailto:mahdiarshoraka@gmail.com">
           Contact Me
