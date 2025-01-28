@@ -1,7 +1,7 @@
 [
   {
     "title": "YelpCamp",
-    "imageSrc": "projects/yelpcamphome.png",
+    "imageSrc": "projects/yelpcampui.png",
     "description": "Developed a feature-rich web application inspired by Yelp and Google Reviews to share, discover, review, and rate campgrounds. Course credit: The Web Developer Bootcamp by Colt Steele",
     "skills": [
       "HTML",
