@@ -54,7 +54,10 @@
 .heroImg {
   width: 50%;
   z-index: 1;
-
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
@@ -82,7 +85,7 @@
   top: -128px;
   left: -10vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgba(24, 60, 126, 0.584);
   filter: blur(100px);
   z-index: 0;
 }
@@ -96,7 +99,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgba(16, 74, 184, 0.306);
   filter: blur(100px);
   z-index: 0;
 }

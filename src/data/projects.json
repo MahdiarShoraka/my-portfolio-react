@@ -1,26 +1,30 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "YelpCamp",
+    "imageSrc": "projects/yelpcamphome.png",
+    "description": "Developed a feature-rich web application inspired by Yelp and Google Reviews to share, discover, review, and rate campgrounds. Course credit: The Web Developer Bootcamp by Colt Steele",
+    "skills": [
+      "HTML",
+      "Bootstrap",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs"
+    ],
+    "demo": "https://yelpcamp-livg.onrender.com/",
+    "source": "https://github.com/MahdiarShoraka/YelpCamp"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Project Alpha",
+    "imageSrc": "projects/projectalphaimg.png",
+    "description": "Developed as a course project to enhance proficiency in Unreal Engine 5 and C++ programming. Course Credit: Unreal Engine 5 C++ The Ultimate Game Developer Course by Stephen Ulibarri",
+    "skills": ["C++", "Game Design", "Unreal Engine 5", "Blender"],
+    "source": "https://github.com/MahdiarShoraka/ProjectAlpha_Source"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Intelligent Robot",
+    "imageSrc": "projects/robot.png",
+    "description": "A robot that scans traffic signs and moves accordingly. Embedded Systems (EECS 2032) course project",
+    "skills": ["C", "Hardware Design", "Arduino"]
   }
 ]
