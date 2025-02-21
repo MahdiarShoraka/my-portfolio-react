@@ -30,8 +30,7 @@ export const About = () => {
                 development, including programming in C++ and creating
                 blueprints and game prototypes in Unreal Engine 5. I am
                 continually advancing my expertise in game development, as this
-                field is one of my primary interests within software
-                engineering.
+                field is one of my primary interests in software engineering.
               </p>
             </div>
           </li>
@@ -40,10 +39,10 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Full-Stack Developer</h3>
               <p>
-                I have epxeirence developing Full-Stack applications and
-                websites. I am proficnet in both java and JavaScript, have
+                I have experience developing Full-Stack applications and
+                websites. I am proficient in both Java and JavaScript and have
                 developed applications using frameworks and libraries like
-                Node.js, Express.js, React, MongDB, SQLite, etc.
+                Node.js, Express.js, React, MongoDB, SQLite, etc.
               </p>
             </div>
           </li>
