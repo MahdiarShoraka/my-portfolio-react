@@ -16,7 +16,7 @@ export const About = () => {
                 University. I have achieved several academic awards and
                 scholarships. Some of the important courses that I took include:
                 Data Structures and Algorithms, Applied Linear Algebra, Intro to
-                Computer graphics, Intro to Machine Learning, Computer Networks,
+                Computer Graphics, Intro to Machine Learning, Computer Networks,
                 and E-commerce Systems.
               </p>
             </div>

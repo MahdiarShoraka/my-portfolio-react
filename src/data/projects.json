@@ -24,7 +24,7 @@
   {
     "title": "Intelligent Robot",
     "imageSrc": "projects/robot.png",
-    "description": "A robot that scans traffic signs and moves accordingly. Embedded Systems (EECS 2032) course project",
+    "description": "A robot that scans traffic signs and moves accordingly. Embedded Systems university course project",
     "skills": ["C", "Hardware Design", "Arduino"]
   }
 ]
